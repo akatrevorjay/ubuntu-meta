@@ -1,3 +1,9 @@
+ubuntu-meta (1.287ppa1) quantal; urgency=low
+
+  * Replace rsyslog with system-log-daemon so ubuntu-minimal doesn't nag to remove other logging daemons
+
+ -- Trevor Joynson (trevorj) <gpg@skywww.net>  Tue, 15 Jan 2013 03:17:48 -0500
+
 ubuntu-meta (1.287) quantal; urgency=low
 
   * Refreshed dependencies (LP: #1062448)
